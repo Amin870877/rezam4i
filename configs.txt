@@ -19,3 +19,21 @@ vless://6ba44ffc-f556-4827-b9f0-32bd616ef94e@ddb.mambo-jambo.ru:56007?security=&
 vless://6ba44ffc-f556-4827-b9f0-32bd616ef94e@fi0.mambo-jambo.ru:443?security=reality&encryption=none&pbk=DrWq_ysFaGPGgRFcHevMPoruwYMRXryW6i_cwE7CuCM&headerType=&fp=qq&type=tcp&sni=store.steampowered.com&sid=3decb73e#%D8%A7%D8%B6%D8%B7%D8%B1%D8%A7%D8%B1%DB%8C%20%20-%2040GB
 
 vless://6ba44ffc-f556-4827-b9f0-32bd616ef94e@dd-de0.mambo-jambo.ru:62654?security=&encryption=none&type=ws#%D8%A7%D8%B6%D8%B7%D8%B1%D8%A7%D8%B1%DB%8C%20%20-%2040GB
+
+vless://ec060dac-9080-44ed-905b-b9536ea94f6c@nld.pink-service.ru:443?security=reality&encryption=none&pbk=2fgsbEAn-ALVpjnE4ZTPrzaZY70vVplYwldCnslInE0&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=www.google.com&sid=86b80f1e713a33ad#QTeam%20%7C%20VIP%20-%201
+
+vless://ec060dac-9080-44ed-905b-b9536ea94f6c@nld3.pink-service.ru:443?security=reality&encryption=none&pbk=2fgsbEAn-ALVpjnE4ZTPrzaZY70vVplYwldCnslInE0&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=nld3.pink-service.ru&sid=86b80f1e713a33ad#QTeam%20%7C%20VIP%20-%202
+
+vless://ec060dac-9080-44ed-905b-b9536ea94f6c@de.pink-service.ru:443?security=reality&encryption=none&pbk=2fgsbEAn-ALVpjnE4ZTPrzaZY70vVplYwldCnslInE0&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=de.pink-service.ru&sid=86b80f1e713a33ad#QTeam%20%7C%20VIP%20-%203
+
+vless://ec060dac-9080-44ed-905b-b9536ea94f6c@est.pink-service.ru:443?security=reality&encryption=none&pbk=2fgsbEAn-ALVpjnE4ZTPrzaZY70vVplYwldCnslInE0&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=www.google.com&sid=86b80f1e713a33ad#QTeam%20%7C%20VIP%20-%204
+
+vless://ec060dac-9080-44ed-905b-b9536ea94f6c@fin2.pink-service.ru:443?security=reality&encryption=none&pbk=2fgsbEAn-ALVpjnE4ZTPrzaZY70vVplYwldCnslInE0&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=fin2.pink-service.ru&sid=86b80f1e713a33ad#QTeam%20%7C%20VIP%20-%205
+
+vless://ec060dac-9080-44ed-905b-b9536ea94f6c@us.pink-service.ru:443?security=reality&encryption=none&pbk=2fgsbEAn-ALVpjnE4ZTPrzaZY70vVplYwldCnslInE0&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=us.pink-service.ru&sid=86b80f1e713a33ad#QTeam%20%7C%20VIP%20-%206
+
+vless://ec060dac-9080-44ed-905b-b9536ea94f6c@144.31.2.207:443?security=reality&encryption=none&pbk=2fgsbEAn-ALVpjnE4ZTPrzaZY70vVplYwldCnslInE0&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=pol-game.pink-service.ru&sid=86b80f1e713a33ad#QTeam%20%7C%20VIP%20-%207
+
+vless://ec060dac-9080-44ed-905b-b9536ea94f6c@jp.pink-service.ru:443?security=reality&encryption=none&pbk=2fgsbEAn-ALVpjnE4ZTPrzaZY70vVplYwldCnslInE0&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=jp.pink-service.ru&sid=86b80f1e713a33ad#QTeam%20%7C%20VIP%20-%208
+
+vless://ec060dac-9080-44ed-905b-b9536ea94f6c@83.222.10.12:443?security=reality&encryption=none&pbk=2fgsbEAn-ALVpjnE4ZTPrzaZY70vVplYwldCnslInE0&headerType=none&fp=qq&type=tcp&flow=xtls-rprx-vision&sni=www.google.com&sid=86b80f1e713a33ad#QTeam%20%7C%20VIP%20-%209
